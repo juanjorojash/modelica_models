@@ -1,0 +1,16 @@
+ Starting log
+ Info: ----------------------  Reading composite model  ---------------------- 
+ Info: XML file is parsed OK. Creating model.
+ Info: -----  Reading simulation parameters  ----- 
+ Info: StartTime     = 0.000000 s
+ Info: StopTime      = 1.000000 s
+ Info: WriteTimeStep = 0.001000 s
+ Info: ----------------------  Composite model is read  ---------------------- 
+ Info: Checking model...
+ Info: TLM manager is ready to send messages
+ Info: TLM manager is listening on port 11111
+ Info: -----  Waiting for registration requests  ----- 
+ Info: Meta model checking completed successfully
+ Info: ------------------  Starting time data exchange   ------------------
+ Info: Simulation complete.
+ Info: All sockets are closed.
